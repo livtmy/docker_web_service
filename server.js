@@ -7,7 +7,7 @@ var fs = require("fs");
 const PORT = 8080;
 const HOST = '0.0.0.0';
 
-app.get('/listFlowers', function (req, res) {
+app.get('/flowers', function (req, res) {
    fs.readFile( __dirname + "/" + "flowers.json", 'utf8', function (err, data) {
       console.log( data );
       res.setHeader('Access-Control-Allow-Origin', "*")
@@ -16,7 +16,7 @@ app.get('/listFlowers', function (req, res) {
    });
 })
 
-app.get('/:id', function (req, res) {
+app.get('/flowers/:id', function (req, res) {
    // First read existing users.
    fs.readFile( __dirname + "/" + "flowers.json", 'utf8', function (err, data) {
       var flowers = JSON.parse( data );
