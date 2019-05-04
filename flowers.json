@@ -1,0 +1,43 @@
+{
+   "flower1" : {
+      "name" : "Dahlia",
+      "image" : "https://www.longfield-gardens.com/_ccLib/image/plants/DETA-536.jpg",
+      "desc" : "Dahlia is a genus of bushy, tuberous, herbaceous perennial plants native to Mexico. A member of the Asteraceae (or Compositae), dicotyledonous plants, related species include the sunflower, daisy, chrysanthemum, and zinnia. There are 42 species of dahlia, with hybrids commonly grown as garden plants. ",
+      "id": 1
+   },
+
+   "flower2" : {
+      "name" : "Lily",
+      "image" : "https://img.crocdn.co.uk/images/products2/pl/20/00/00/54/pl2000005436.jpg?width=940&height=940",
+      "desc" : "Lilium (members of which are true lilies) is a genus of herbaceous flowering plants growing from bulbs, all with large prominent flowers. Lilies are a group of flowering plants which are important in culture and literature in much of the world. ",
+      "id": 2
+   },
+
+   "flower3" : {
+      "name" : "Lavender",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgsmTJ7arAoju6oXJZCnFQsKRARgMpTQaf0N1ZWtVDOvbHujSBeA",
+      "desc" : "Lavandula (common name lavender) is a genus of 47 known species of flowering plants in the mint family, Lamiaceae. It is native to the Old World and is found from Cape Verde and the Canary Islands, Europe across to northern and eastern Africa, the Mediterranean, southwest Asia, China (Plectranthus mona lavender) to southeast India. ",
+      "id": 3
+  },
+
+   "flower4" : {
+      "name" : "Tulip",
+      "image" : "https://img.crocdn.co.uk/images/products2/pl/20/00/01/09/pl2000010947.jpg?width=940&height=940",
+      "desc" : "Tulips (Tulipa) form a genus of spring-blooming perennial herbaceous bulbiferous geophytes (having bulbs as storage organs). The flowers are usually large, showy and brightly coloured, generally red, pink, yellow, or white (usually in warm colours). They often have a different coloured blotch at the base of the tepals (petals and sepals, collectively), internally. ",
+      "id": 4
+  },
+
+  "flower5" : {
+     "name" : "Rose",
+     "image" : "https://images.homedepot-static.com/productImages/e350ef76-f7ff-46ee-83d2-606aab23453c/svn/mea-nursery-rose-bushes-62014-64_1000.jpg",
+     "desc" : "A rose is a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears. There are over three hundred species and thousands of cultivars. They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles. ",
+     "id": 5
+ },
+
+  "flower6" : {
+     "name" : "Daffodil",
+     "image" : "https://s3.amazonaws.com/cdn0.dutchbulbs.com/images/500/87784A_1.jpg",
+     "desc" : "Narcissus is a genus of predominantly spring perennial plants of the Amaryllidaceae family. Various common names including daffodil, daffadowndilly, narcissus and jonquil are used to describe all or some members of the genus. ",
+     "id": 6
+  }
+}
