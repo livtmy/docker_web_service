@@ -1,4 +1,4 @@
-## Liv's Garden
+# Liv's Garden
 
 This app uses Docker Node.js and Express.
 
@@ -6,10 +6,10 @@ Two routes:
 /flowers: returns all the flowers' info.
 /flowers/3: returns the info of the flower with id 3. 3 can be replaced by any valid Id. Valid Ids range from 1 to 6.
 
-# To run this application locally
+## To run this application locally
 You need to have Docker installed in your machine. 
 
-# Download source code through Git
+## Download source code through Git
 
 Step 1: click the "Clone or download" button on the upper right side of this webpage.
 
@@ -25,7 +25,7 @@ Step 6: type "git clone your url", replace "your url" with the url copied from G
 
 Now all the source code is downloaded to your local machine in a file named "docker_web_service" in the file you specified.
 
-# Build and run your image
+## Build and run your image
 
 Step 1: open your Docker terminal.
 
